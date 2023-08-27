@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_height">Enter your height in cm</string>
+    <string name="weight">Weight</string>
+    <string name="enter_your_weight">Enter your weight in kg</string>
+    <string name="calculate">Calculate</string>
+    <string name="show_result">Show Result</string>
+    <string name="height">Height</string>
+    <string name="bmi_result">Your BMI is %.2f\nCategory: %s</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
+</resources>
